@@ -1,0 +1,22 @@
+.heading
+{
+    width: 80%;
+    font-size:22px;
+}
+body
+{
+    color: red;
+    background-color: lightblue;
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px outset rgb(131, 74, 131); 
+}
+
+#result_object_name, #result_accuracy ,.name_of_object
+{
+    color: rgb(219, 167, 54);
+}
